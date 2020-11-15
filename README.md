@@ -8,4 +8,4 @@
 
 - <a href="vk.com/aiohttp"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/80px-VK.com-logo.svg.png" width="16" height="16"> Вконтакте</a>
 
-![Alt Text](https://media.giphy.com/media/jpbnoe3UIa8TU8LM13/source.gif)
+![кiт](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
